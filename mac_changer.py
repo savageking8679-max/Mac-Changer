@@ -2,7 +2,7 @@ import subprocess
 import time
 import os
 BLUE = '34m'
-message = 'WARNING THIS PROGRAM MOST BE USED WITH SUDO OTHER WISE MAC ADDRESS WONT CHANGE!!!!!!!!'
+message = 'WARNING THIS PROGRAM MUST BE USED WITH SUDO OTHER WISE MAC ADDRESS WONT CHANGE!!!!!!!!'
 
 
 def display_colored_text(color, text):
